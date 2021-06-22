@@ -1,0 +1,75 @@
+:root {
+    font-size: 15px;
+  }
+  
+  body {
+    background-color: lightBlue;
+    min-height: 300px;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.7;
+    font-family: Georgia;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    font-family: 'Limelight', cursive, Georgia;
+    margin: 0 auto;
+  }
+  
+  p{
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-family: georgia;
+  }
+  #main {
+    text-align: center;
+    margin: auto;
+  }
+  @media (max-width="350px")
+  #main {
+    margin: auto;
+    }
+  
+  img {
+    margin: 15px;
+    display: absolute;
+    height: auto;
+    max-width: 100%;
+  }
+  
+  #img-div {
+    background: whiteSmoke;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  img:hover {
+    transition: all 3s;
+    transform: scale(1.1);
+  }
+  #img-caption {
+    font-style: italic;
+  }
+  
+  #tribute-info {
+    max-width: 100%;
+    height: auto;
+    text-align: left;
+    margin: 0 auto;
+    font-family: georgia;
+    font-size: 1rem;
+  }
+  
+  @media (max-width="350px")
+  #tribute-info{ 
+  
+  }
+  
+  h2, h3{
+      font-family: 'Limelight', cursive, Georgia;
+  }
+  
+  
