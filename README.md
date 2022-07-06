@@ -1,5 +1,14 @@
 # Tribute Page: Building a tribute page by using HTML5 & CSS
 
+## 🎗️ Badges
+[![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23FFac45.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=purple)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhan-phan-77358a141/)
+[![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/kippulainen04)
+
+![](https://i.imgur.com/7Y1QgMv.png)
+
 ## 🚀 Overview
 
 This is my very first HTML and CSS page that I have ever made. A biblbiography of John D. Rockefeller, one of the richest man in the history of the United State
@@ -90,25 +99,5 @@ Please make sure to follow [Common Guidlines](https://docs.github.com/en/communi
 
 ## 📝 License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-[![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23FFac45.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=purple)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhan-phan-77358a141/)
-[![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/kippulainen04)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
