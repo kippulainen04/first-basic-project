@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-This is my very first HTML and CSS page that I have ever made. A biblbiography of John D. Rockefeller, one of the richest man in the history of the United State
+This is my very first HTML and CSS page that I have ever made. A bibliography of John D. Rockefeller, one of the richest man in the history of the United State
 
 In this project, **[HyperText Markup Language](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%20or,(HyperText%20Markup%20Language)) and [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS)** are used to implement the page.
 
@@ -30,7 +30,7 @@ The following content will be covered in this README.md:
 
 ## 🧑‍💻 Learning Objectives
 
-After fulfilling the project, I accquire knowledge to:
+After fulfilling the project, I acquire knowledge to:
 * Build and style static webpages with semantic **HTML** and **CSS**
 * Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks
 * Implement the use of adding **Images & Links** into HTML, using **`<li>, <figure>, so on`tags** to present the content of the project
